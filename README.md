@@ -1,2 +1,13 @@
 # awesome-resources
-A collection of resources to learn Laravel
+A collection of awesome resources to learn Laravel
+
+## Table of Contents:
+
+## Documentation
+
+## Books
+
+## Videos
+
+## Community
+
